@@ -86,8 +86,7 @@ Part of the **SIN-CLIs Stealth Suite** — 12 Komponenten für autonome Browser-
 | Layer | Repo | Technologie |
 |-------|------|-------------|
 | 🧠 Orchestrator | [`stealth-runner`](https://github.com/SIN-CLIs/stealth-runner) | Python |
-| 🖱️ ACT Main | [`skylight-cli`](https://github.com/SIN-CLIs/skylight-cli) | Swift |
-| 🖱️ ACT Popup | [`cua-touch`](https://github.com/SIN-CLIs/cua-touch) | Python + Swift |
+| 🖱️ ACT (CUA-ONLY) | [`cua-touch`](https://github.com/SIN-CLIs/cua-touch) | Python + Swift Binary |
 | 🎭 HIDE | [`playstealth-cli`](https://github.com/SIN-CLIs/playstealth-cli) | Python |
 | 👁️ SENSE | [`unmask-cli`](https://github.com/SIN-CLIs/unmask-cli) | TypeScript |
 | 📹 VERIFY | [`screen-follow`](https://github.com/SIN-CLIs/screen-follow) | Swift |
